@@ -9,3 +9,4 @@ Additionally, not all weapons are combat-proven, with a significant portion neve
 In summary, global weapon development is growing, with clear dominance by certain countries and categories. By focusing on proven systems, key producing nations, and evolving technologies, stakeholders can better understand military trends and make informed strategic decisions.
 
 # OVERVIEW OF DASHBOARD
+![DASHBOARD](DASHBOARD.png)
